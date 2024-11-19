@@ -6,6 +6,36 @@ Elevator pitch:
 Introducing our innovative solution that leverages AI and cutting-edge large language models to empower entrepreneurs in launching their startups. By providing real-time guidance, business insights, and tailored resources, we simplify the complex startup journey. With our platform, aspiring founders can access personalized suggestions on business plans, marketing strategies, and financial forecasts, enabling them to make informed decisions quickly. Revolutionize your entrepreneurial experience and turn your vision into reality with the power of AI at your fingertips.
 
 
+OKRs
+
+Objective 1
+Empower entrepreneurs to transform their ideas into flourishing startup ventures
+
+Key results
+- Idea Transformation: Achieve a 70% increase in the number of startups reaching their first profitable quarter
+- Entrepreneur Empowerment: Ensure a satisfaction score of 90% among participating entrepreneurs
+- Startup Success: Obtain a milestone where 50 startups have successfully secured Series A funding
+- Venture Growth: Record a 60% growth in average employee headcount across supported startups
+
+Objective 2
+Empower entrepreneurs to navigate regulations and laws, fostering a landscape of more successful startups
+
+Key results
+- Navigate regulations: Achieve a 30% reduction in compliance issues reported by startups
+- Empower entrepreneurs: Increase the number of startups utilizing our legal toolkit to 500
+- Fostering success: Elevate startup survival rates to 80% after the first year
+- Landscape transformation: Grow the percentage of startups citing regulatory support as a key success factor to 40%
+
+
+Objective 3
+Empower entrepreneurs to transform their ideas into market successes with clarity and confidence
+
+Key results
+- Gain Insight: Increase the number of startups using our analytics tools to 500
+- Build Confidence: Achieve a customer satisfaction score of 95% for our mentorship program
+- Idea to Market: 300 startups launched using our platform this year
+- Startup Success: More than 50% of the startups we support survive beyond their first year
+
 
 **Company Profile: A-iTeam**
 
