@@ -4,23 +4,35 @@ Slagord: "Start smart, ikke hardt."
 
 Visjon: "Vi ser for oss en verden hvor alle entreprenører har tilgang til AI-støttet råd og ressurser for å starte og drive sin egen startup med suksess. En verden som er smart, effektiv og innovativ."
 
+
+
 Kundereise:
+
+
 Trin 1: Bevissthet
 
 En entreprenør med en idé til et nytt startup oppdager vår plattform gjennom sosiale medier, online-søk eller ord-mot-ord.
 De lærer om fordelen av å bruke AI for å akselerere deres virksomhet og vil vite mer.
+
+
 Trin 2: Interesse
 
 Entrepreneren besøker vår hjemmeside og lærer om våre plattforms funksjoner og tjenester.
 De er imponert over suksesshistoriene til andre startups som har brukt vår plattform og vil utforske videre.
+
+
 Trin 3: Vurdere
 
 Entrepreneren vurderer sine muligheter for å bygge et startup, inkludert å bruke vår plattform som en måte å akselerere deres virksomhet.
 De veier fordelen og ulempen av å bruke AI mot tradisjonelle metoder og bestemmer at vår plattform er verdt å utforske videre.
+
+
 Trin 4: Beslutning
 
 Entrepreneren bestemmer seg for å abonnere på vår plattform og starte å bruke AI-baserte verktøy og tjenester.
 De er spennede over hvordan AI kan hjelpe dem til å validere deres idé, bygge en prototype og tiltrekke investorer.
+
+
 Trin 5: Retention
 
 Når entrepreneren bruker vår plattform, opplever de signifikante fordeler fra å bruke AI-baserte verktøy og tjenester.
