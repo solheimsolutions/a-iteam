@@ -1,5 +1,9 @@
 # a-iteam
 
+Slagord: "Start smart, ikke hardt."
+
+Visjon: "Vi ser for oss en verden hvor alle entreprenører har tilgang til AI-støttet råd og ressurser for å starte og drive sin egen startup med suksess. En verden som er smart, effektiv og innovativ."
+
 
 Elevator pitch:
 
@@ -62,12 +66,3 @@ Are you ready to take the leap into entrepreneurship? Let A-iTeam be your truste
 For more information, visit our website or reach out to our dedicated support team. We can’t wait to help you bring your entrepreneurial vision to life! 
 
 **A-iTeam – Your partner in innovation and entrepreneurship!**
-
-
-Objective/Key Result:
-1
-
-2
-
-3
-
