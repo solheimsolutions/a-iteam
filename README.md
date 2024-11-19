@@ -1,5 +1,4 @@
 # a-iteam
-GreenTechSee
 
 
 Elevator pitch:
